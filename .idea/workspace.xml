@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93aa9c9e-380a-4118-9e48-07947f63d447" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/FRCUserProgram.jar" afterPath="$PROJECT_DIR$/dist/FRCUserProgram.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/Constants.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/IO.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/IO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/Robot.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/Robot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveFarBumpAndDump.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveFarBumpAndDump.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearAfterShooting.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearAfterShooting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearCenter.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearCenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveRotate.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveRotate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerIntake.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerIntake.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeRetract.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeRetract.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/ShootHopperExtensionGearHandler.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/ShootHopperExtensionGearHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/FarBumpAndDump/MultiFarBumpAndDumpAuto.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/FarBumpAndDump/MultiFarBumpAndDumpAuto.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiHopperExtensionExtend.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiHopperExtensionExtend.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequence.java" afterPath="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequence.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set(IO.INT</find>
+      <find>MultiFeed</find>
+      <find>INTAKE</find>
+      <find>INTAKE, 1.</find>
+      <find>drive</find>
+      <find>zero</find>
+      <find>0.75</find>
+      <find>TURRET_ZER</find>
+      <find>shot =</find>
+      <find>DRIVER_BUTTON</find>
+      <find>SHOOTER</find>
+      <find>SHOOTER_2</find>
+      <find>shooterVeloc</find>
+      <find>shooterFoll</find>
+      <find>12.0</find>
+      <find>122</find>
+      <find>OFFSET</find>
+      <find>this.vision</find>
+      <find>this.angleOffset</find>
+      <find>vision</find>
+      <find>this.vision.get</find>
+      <find>1.5</find>
+      <find>TURRET_POSITION</find>
+      <find>2.25</find>
+      <find>43</find>
+      <find>9950</find>
+      <find>LIMIT</find>
+      <find>94</find>
+      <find>presence</find>
+      <find>250</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/IO/Solenoids.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter/ShooterSpool.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiShootSequence.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/util/Promise.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/Subsystem.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/RobotBase.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/TurretAlign.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/ShooterSet.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiShootAuto.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiSpoolAuto.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/controllers/Shots.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/IO/PID/TalonVelocityController.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/util/stabilizers/Stabilizer2.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/BoilerVision.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeAgitate.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter/ShooterManual.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/NetworkImpl.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/RobotState.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequenceTeleop.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiFeed.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/Shoot/Shoot.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveManual.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveSet.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/TurretSetPosition.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/IO/PID/PositionController.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiSpoolAndShoot.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiFeed.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequenceAuto.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiGearPlacementAuto.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/GearAuto/MultiGearAuto.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveCircleSmooth.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiAutoSequence.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/ShootThenGearAuto/MultiShootThenGearAuto.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/GearAutoCenter/MultiGearAutoCenter.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerZero.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiHopperExtensionExtend.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeRetract.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeExtend.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequence.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/IO.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/Robot.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/MultiBumpAndDumpAuto.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/FarBumpAndDump/MultiFarBumpAndDumpAuto.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveFarBumpAndDump.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerIntake.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/ShootHopperExtensionGearHandler.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/Constants.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeManual.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearCenter.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveRotate.java" />
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearAfterShooting.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="robot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="robot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robot2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="robot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Turret" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="preferences.sourceCode.Java" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="SearchEverywhereHistoryKey" value="drivegear&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearAfterShooting.java&#10;multia&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/MultiAutoSequence.java&#10;drive&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearAfterShooting.java&#10;multiaut&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/MultiAutoSequence.java&#10;multiauto&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/MultiAutoSequence.java&#10;dri&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearCenter.java&#10;intakeman&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeManual.java&#10;consta&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/Constants.java&#10;shoot&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/ShootHopperExtensionGearHandler.java&#10;drivefar&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveFarBumpAndDump.java&#10;farbum&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/FarBumpAndDump/MultiFarBumpAndDumpAuto.java&#10;drivecent&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearCenter.java&#10;multiautoseq&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/MultiAutoSequence.java&#10;bumpanddump&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/MultiBumpAndDumpAuto.java&#10;far&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/FarBumpAndDump/MultiFarBumpAndDumpAuto.java&#10;driveb&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveFarBumpAndDump.java&#10;drivebump&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveFarBumpAndDump.java&#10;shoo&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/ShootHopperExtensionGearHandler.java&#10;shoothop&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/ShootHopperExtensionGearHandler.java&#10;init&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/InitializeWaitAndShoot.java&#10;multibump&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/MultiBumpAndDumpAuto.java&#10;gear&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearCenter.java&#10;bumpanddumpauto&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/FarBumpAndDump/MultiFarBumpAndDumpAuto.java&#10;robot&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/Robot.java&#10;io&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/IO.java&#10;autoseq&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/MultiAutoSequence.java&#10;zero&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerZero.java&#10;multishootseq&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequence.java&#10;intakeex&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeExtend.java&#10;intakeret&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeRetract.java&#10;hopperexte&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/MultiHopperExtensionExtend.java&#10;robotsta&#9;PSI&#9;JAVA://org.usfirst.frc.team1619.robot.RobotState&#10;intakeretra&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeRetract.java&#10;gearhandlerze&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerZero.java&#10;multifarbu&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/FarBumpAndDump/MultiFarBumpAndDumpAuto.java&#10;drivefa&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveFarBumpAndDump.java&#10;constan&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/Constants.java&#10;bumpand&#9;PSI&#9;JAVA://org.usfirst.frc.team1619.robot.states.Multi.BumpAndDump.BumpAndDumpAuto&#10;drivecircs&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveCircleSmooth.java&#10;multigearaut&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/ShootThenGearAuto/MultiShootThenGearAuto.java&#10;multispoo&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiSpoolAndShoot.java&#10;multishoo&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequence.java&#10;multishootauto&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequenceAuto.java&#10;multigear&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/ShootThenGearAuto/MultiShootThenGearAuto.java&#10;multi&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/ShootThenGearAuto/MultiShootThenGearAuto.java&#10;driveg&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearAfterShooting.java&#10;multishoseqau&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequenceAuto.java&#10;mul&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Multi/MultiAutoSequence.java&#10;constant&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/Constants.java&#10;shooterman&#9;FILE&#9;file:///Users/a/Code/FRC Eclipse/Robot2017/src/org/usfirst/frc/team1619/robot/states/Shooter/ShooterManual.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BoilerVision">
+    <configuration default="false" name="CircleTrajectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.usfirst.frc.team1619.robot.framework.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.usfirst.frc.team1619.robot.framework.util.CircleTrajectory" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Robot2017" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LEDs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.usfirst.frc.team1619.robot.controllers.LED.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.usfirst.frc.team1619.robot.controllers.LED.LEDs" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Robot2017" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Promise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.usfirst.frc.team1619.robot.framework.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.usfirst.frc.team1619.robot.framework.util.Promise" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Robot2017" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Stabilizer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.usfirst.frc.team1619.robot.framework.util.stabilizers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.usfirst.frc.team1619.robot.framework.util.stabilizers.Stabilizer2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Robot2017" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BoilerVision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.usfirst.frc.team1619.robot.states.Shooter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.usfirst.frc.team1619.robot.states.Shooter2.BoilerVision" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Robot2017" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Robot2017" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.CircleTrajectory" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LEDs" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Promise" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Stabilizer2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BoilerVision" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.BoilerVision" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Stabilizer2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Promise" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LEDs" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CircleTrajectory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93aa9c9e-380a-4118-9e48-07947f63d447" name="Default" comment="" />
+      <created>1487715947223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487715947223</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2725322" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29899856" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Turret/TurretSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/IO/PID/PositionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequenceAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiInitialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiSpoolAndShoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="61" column="59" lean-forward="false" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiFeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiFeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/util/TrapezoidTrajectory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiGearPlacementAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/GearAuto/MultiGearAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="51" column="48" lean-forward="false" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/IO/PID/CircleTrajectoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/IO/PID/TrapezoidTrajectoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveStraight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/ShootThenGearAuto/MultiShootThenGearAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="33" column="64" lean-forward="false" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/GearAutoCenter/MultiGearAutoCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="90" column="60" lean-forward="false" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/RobotBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiHopperExtensionExtend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/RobotState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeRetract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/MultiShootSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="239" column="6" lean-forward="false" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/framework/IO/Motors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/IO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeExtend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/controllers/Vision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Shooter2/TurretAlign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Turret/TurretAlign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveBumpAndDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="78" column="34" lean-forward="false" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveCircleSmooth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/AlignAndShoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="79" lean-forward="false" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/TurretSetPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerIdle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Turret/TurretIdle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/MultiBumpAndDumpAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/InitializeWaitAndShoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveFarBumpAndDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="66" lean-forward="false" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/FarBumpAndDump/MultiFarBumpAndDumpAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="53" column="41" lean-forward="false" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlerIntake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="81" lean-forward="false" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/GearHandler/GearHandlePlaceAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="932">
+          <caret line="105" column="79" lean-forward="false" selection-start-line="105" selection-start-column="79" selection-end-line="105" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/BumpAndDump/ShootHopperExtensionGearHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Intake/IntakeManual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveRotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="75" lean-forward="false" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Drive/DriveGearAfterShooting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc/team1619/robot/states/Multi/MultiAutoSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Robot2017</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>CTRLib.jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
